@@ -1,1 +1,1 @@
-# rps-odin
+Follwing is the code for the 'Rock Paper Scissors' project in the odin assignments.
